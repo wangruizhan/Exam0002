@@ -1,0 +1,4 @@
+进入项目后
+执行mvn tomcat:run
+然后再客户端输入
+http://localhost:8080/B1/17/login.jsp
